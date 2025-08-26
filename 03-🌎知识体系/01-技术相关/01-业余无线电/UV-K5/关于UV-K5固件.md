@@ -11,14 +11,14 @@ share:
 >**擅自设置使用无线电台 (站)、干扰无线电业务、不按核定项目工作以及其他违反无线电管理法规的行为，由无线电管理机构给予行政处罚。严重的无线电违法行为，还可能触犯《刑法》第288条或《治安管理处罚法》第28条，将被处以三年以下有期徒刑、拘役或者管制，并处或者单处罚金的刑事处罚或者由公安机关处以拘留的行政处罚。**
 
 ## **00 关注公众号 获取最新固件信息及使用说明**
-![xanyitopwx.webp](xanyitopwx.webp)
+![xanyitopwx.webp](../../../../99-%E9%99%84%E4%BB%B6/xanyitopwx.webp)
 
 *可以[通过Delta Chat与我联系](https://i.delta.chat/#BD6894FDDEBABE779F08C28215EE6A8466C9F00A&a=troilusxi%40nine.testrun.org&n=troilusxi&i=AblXy9SQioX&s=F1Q0wbKv_U6)。*
 *Delta Chat 是一款利用现有电子邮件技术，可靠的、去中心化且安全的消息传递应用程序。*
 
 ## **01 阅读[K5固件发展](https://mp.weixin.qq.com/s/a5MntHvdvqQvp1cxwWEZcQ)，根据需求选择固件**
 
-![618x371](historyoffw.webp)
+![618x371](../../../../99-%E9%99%84%E4%BB%B6/historyoffw.webp)
 
 ## **02相关固件、说明工具下载地址**
 
@@ -54,7 +54,7 @@ share:
 CW、APRS、远程操作等等。。。
 
 ## **04其他信息**
-- [](#fagci_specrum_help_20231010-0735en.pdf)  频谱图操作说明
+- [](%E5%85%B3%E4%BA%8EUV-K5%E5%9B%BA%E4%BB%B6.md##fagci_specrum_help_20231010-0735en.pdf)  频谱图操作说明
 - [BI4IHA制作的固件使用说明1](https://www.bilibili.com/video/BV16h4y1z7Dz/)
 - [BI4IHA制作的固件使用说明2](https://www.bilibili.com/video/BV1Cw411r73J/)
 

@@ -1,5 +1,5 @@
 ---
-share: true
+share: "true"
 ---
 ## 联系方式
 - *可以[通过Delta Chat与我联系。](https://i.delta.chat/#BD6894FDDEBABE779F08C28215EE6A8466C9F00A&a=troilusxi%40nine.testrun.org&n=troilusxi&i=AblXy9SQioX&s=F1Q0wbKv_U6)*

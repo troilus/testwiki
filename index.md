@@ -7,4 +7,4 @@ share: "true"
 - 📧*给我*[*发一封邮件*](mailto:troilus@outlook.com)
 
 ## 泉盛UV-K5/K6固件
-如果你在寻找泉盛UV-K5/K6相关固件的内容，请点击[[./03-🌎知识体系/01-技术相关/01-业余无线电/UV-K5/关于UV-K5固件|关于UV-K5固件]]。
+如果你在寻找泉盛UV-K5/K6相关固件的内容，请点击[关于UV-K5固件](./03-%F0%9F%8C%8E%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/01-%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3/01-%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5/UV-K5/%E5%85%B3%E4%BA%8EUV-K5%E5%9B%BA%E4%BB%B6.md)。
